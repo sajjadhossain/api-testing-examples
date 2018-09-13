@@ -1,0 +1,27 @@
+{
+  "name": "api-testing-examples",
+  "version": "1.0.0",
+  "description": "Functional and behavioral API testing examples using BDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajjadhossain/api-testing-examples.git"
+  },
+  "keywords": [
+    "node",
+    "mocha",
+    "api-testing",
+    "api",
+    "bdd",
+    "chai"
+  ],
+  "author": "sajjad hossain",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sajjadhossain/api-testing-examples/issues"
+  },
+  "homepage": "https://github.com/sajjadhossain/api-testing-examples#readme"
+}
